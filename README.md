@@ -6,3 +6,6 @@ Datasets and original plates are available on [Kaggle](https://www.kaggle.com/da
 ![Reproduction2](https://github.com/user-attachments/assets/47cb4c63-1079-409f-ad33-34cf2418ec4c)
 
 ![Reproduction3](https://github.com/user-attachments/assets/16e4cefe-d7b5-4365-95fb-c806110b2412)
+
+![Reproduction4](https://github.com/user-attachments/assets/5d154405-2d8b-4119-835b-d50e16144c7c)
+
