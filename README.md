@@ -9,7 +9,8 @@ Datasets and original plates are available on [Kaggle](https://www.kaggle.com/da
 
 ![Reproduction 4](https://github.com/user-attachments/assets/7704562b-bc7e-4851-84ea-22fae431342d)
 
-![Reproduction 5](https://github.com/user-attachments/assets/ac02c43d-0cd1-4819-982f-677b172784be)
+![Reproduction 5](https://github.com/user-attachments/assets/1f24f18b-aff6-44ef-83e0-24b57d2436f1)
+
 
 
 
