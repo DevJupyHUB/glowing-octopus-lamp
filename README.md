@@ -11,6 +11,9 @@ Datasets and original plates are available on [Kaggle](https://www.kaggle.com/da
 
 ![Reproduction 5](https://github.com/user-attachments/assets/1f24f18b-aff6-44ef-83e0-24b57d2436f1)
 
+![Reproduction 6](https://github.com/user-attachments/assets/a17f2d79-cef6-4a5d-9b15-e3ea8d1ac250)
+
+
 
 
 
